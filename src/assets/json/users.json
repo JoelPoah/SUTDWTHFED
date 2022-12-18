@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "63313cee86fe3b9b9638d2cf"
+  },
+  "isGroupChat": true,
+  "name": "SUTD WTH Express Call 2.0",
+  "email": "heh@gmail.com",
+  "password": "$2a$10$vrPjGbHq6ZVjHsyy8Wg/KOnvI8KhZtc5NX9uWYjl6y1p6jmVrvGjy",
+  "pic": "https://divedigital.id/wp-content/uploads/2021/10/1-min.png",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664171246434"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664171246434"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63313d3686fe3b9b9638d2d9"
+  },
+  "isGroupChat": false,
+  "name": "Kaleb",
+  "email": "Kaleb@gmail.com",
+  "password": "$2a$10$armlKojP.c6.ZJBqmdUi1u2yscJjrGwW3QchRPLaSX/JG7P8R6FTa",
+  "pic": "http://res.cloudinary.com/lixuling/image/upload/v1664171320/q9yzpaopn7a92bcx8xfv.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664171318498"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664171318498"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63313dbf86fe3b9b9638d2e0"
+  },
+  "isGroupChat": false,
+  "name": "Junjie",
+  "email": "jj@gmail.com",
+  "password": "$2a$10$vmOuzRp7PasCWVPPvi35ku6JGWCIToGuDCtea0bXPWNNGLnKoojJa",
+  "pic": "http://res.cloudinary.com/lixuling/image/upload/v1664171454/hobxxevn1htzu8ljdzh9.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664171455809"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664171455809"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63313dbf86fe3b9b9638d2e0"
+  },
+  "isGroupChat": false,
+  "name": "Hongyu",
+  "email": "Hongyu@gmail.com",
+  "password": "$2a$10$vmOuzRp7PasCWVPPvi35ku6JGWCIToGuDCtea0bXPWNNGLnfeKoojJa",
+  "pic": "https://www.shutterstock.com/image-vector/cute-penguin-icon-flat-style-600w-744369634.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664171455809"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664171455809"
+    }
+  },
+  "__v": 0
+}]
